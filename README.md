@@ -28,9 +28,9 @@ RSVP Movies is an Indian film production company which has produced many super-h
 **4. Inferences -**
 
 -  The highest number of movies is produced in the month of March.
--  RSVP Movies should focus on the ‘Drama’ genre which has more than three thousand movies associated with it.
--  RSVP Movies should partner with global production house - Marvel Studios.
--  Vijay Sethupathi is the yop Indian actor with most popular movies.
+-  RSVP Movies should focus on Drama genre as 4285 movies were released overall  in ‘Drama’ genre with an average duration of 106.77 mins.
+-  Marvel Studios , Twentieth Century Fox and Warner Bros. are the top recommended production houses that can be chosen as the global partner of RSVP Movies considering high number of votes.
+-  Vijay Sethupathi, Fahaad Faasil, Yogi Babu can be chosen for the lead actor roles in Indian movies
 -  Similarily, Taapsee Pannu tops the actress list.
 -  Star Cinema and Twentieth Century Fox are the production houses that have produced the highest number of hits among multilingual movies.
 
